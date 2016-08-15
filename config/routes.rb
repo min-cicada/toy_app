@@ -1,6 +1,9 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :microposts
   resources :users
+=======
+>>>>>>> 490856cd9c9e59845783868584d1ba0f8f21f94e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

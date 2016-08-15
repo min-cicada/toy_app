@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 490856cd9c9e59845783868584d1ba0f8f21f94e
 source 'https://rubygems.org'
 
 gem 'rails',        '4.2.2'
@@ -20,5 +23,9 @@ end
 group :production do
   gem 'pg',             '0.17.1'
   gem 'rails_12factor', '0.0.2'
+<<<<<<< HEAD
 end
 
+=======
+end
+>>>>>>> 490856cd9c9e59845783868584d1ba0f8f21f94e
